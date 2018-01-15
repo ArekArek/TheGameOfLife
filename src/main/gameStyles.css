@@ -1,0 +1,9 @@
+.cellMarked{
+    -fx-background-color: red;
+    -fx-background-radius: 50;
+}
+
+.cellBackground{
+    -fx-fill: wheat;
+    -fx-stroke: grey;
+}
